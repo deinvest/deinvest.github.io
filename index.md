@@ -1,6 +1,6 @@
 # Denivest New
 
-![web.png](https://www.deinvest.com/web.png)
+![web.png](https://www.deinvest.com/web.png?)
 
 # 欢迎来到 Denivest
 
