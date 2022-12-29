@@ -1,6 +1,6 @@
 # Denivest New
 
-![web.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/73eaaae674314c9ea1344195abe83e41~tplv-k3u1fbpfcp-watermark.image?)
+![web.png](https://www.deinvest.com/web.png)
 
 # 欢迎来到 Denivest
 
